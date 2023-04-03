@@ -18,12 +18,16 @@ When creating a project it is important to think about organization of your code
     - create a function in a state variable that allows us to mark empty spots with "X" or "O" alternating
     - make a component called X-Player
 
+    DONE
+
 
 
 - As a user, my partner can click on a square after me and see their mark.
     - branch: opponent-toggle
     - create a function in a state variable that allows us to mark empty spots with "X" or "O" alternating
     -  make a component called O-Player
+
+    DONE
 
 - As a user, I can't click on a square that has already been marked.
     - branch: already-maked
