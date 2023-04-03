@@ -1,5 +1,26 @@
+.title {
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  margin: 0 auto;
+}
+
 .square {
   border: 2px solid black;
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
+  font-size: 10rem;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.game-board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+  margin: 0 auto;
+
 }
