@@ -53,6 +53,8 @@ When creating a project it is important to think about organization of your code
     - create a button and use onClick
     - create a function which resets page on button click
 
+    DONE
+
 ### 🏔 Stretch Goals
 
 - As a user, I can see a pleasant stylings on the application.
